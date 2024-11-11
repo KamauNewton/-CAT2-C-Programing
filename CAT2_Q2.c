@@ -1,0 +1,1 @@
+Array Definition: The int scores[ROWS][COLS]; statement defines a 2D array named scores with ROWS rows and COLS columns.
