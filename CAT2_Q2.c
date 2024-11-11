@@ -1,1 +1,13 @@
-Array Definition: The int scores[ROWS][COLS]; statement defines a 2D array named scores with ROWS rows and COLS columns.
+  #include <stdio.h>
+
+int main() {
+
+for (int i = 0; i < 2; i++) {
+    for (int j = 0; j < 2; j++) {
+        printf("%d ", scores[i][j]);
+    }
+    printf("\n");
+}
+return 0;
+}
+
